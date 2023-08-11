@@ -14,7 +14,7 @@ const About = () => {
             </p>
             <br></br>
             <p className='text-sm'>
-              I am a full stack developer and UI/UX designer who never gets bored while coding and creating beautiful UI.
+              I am a full stack developer and UI/UX designer who never gets bored while coding and creating creative UI.
             </p>
             <br></br>
             <p className='text-sm'>

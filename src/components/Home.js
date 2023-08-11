@@ -33,7 +33,7 @@ const Home = () => {
 
                 </article>
             </section>
-            <section className='w-3/5 md:w-2/5 flex flex-row items-start justify-between md:justify-evenly mt-12 md:mt-24'>
+            <section className='w-fit md:w-2/5 flex md:gap-0 gap-5 flex-row md:items-start md:mx-0 mx-auto  justify-between md:justify-evenly mt-12 md:mt-24'>
                 <a href='https://github.com/Robo707' target='_blank.' className='text-center text-3xl md:text-4xl transition-colors ease-in hover:bg-purple-600 rounded'>
                     <Github />
                 </a>
