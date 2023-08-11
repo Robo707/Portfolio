@@ -21,13 +21,7 @@ function App() {
               </Route>
           </Switch>
       </Router>
-    /*<div className="App flex flex-col justify-center items-center w-screen h-screen border-4">
-      <div>
-        <h1 className='text-xl font-bold font-sans'>Raj Shankar Tiwary</h1>
-        <h3 className='font-normal'>Frontend Developer</h3>
-        <p className='text-xs'>(Who also produces music and writes content)</p>
-      </div>
-    </div>*/
+
   );
 }
 

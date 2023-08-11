@@ -21,5 +21,4 @@ const Project = ({ image, title, description, site, github }) => {
     </div>
   )
 }
-
 export default Project

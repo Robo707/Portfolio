@@ -28,5 +28,4 @@ const Projects = () => {
     </motion.div>
   )
 }
-
 export default Projects
