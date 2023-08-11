@@ -1,0 +1,66 @@
+[
+    {
+        "image":"/images/codeframe.png",
+        "title":"CodeFrame",
+        "description":"Content creation tool which convert code snippets into beautiful images to share social media.",
+        "site":"https://codeframe.netlify.app/",
+        "github":"https://github.com/Robo707/CodeFrame"
+    },
+    {
+        "image":"/images/learnupss5.png",
+        "title":"LearnUp",
+        "description":"A full-stack coding course selling marketplace with admin dashboard to track sales, courses, users.",
+        "site":"https://learnup-gilt.vercel.app/",
+        "github":"https://github.com/Robo707/LearnUp"
+    },
+    {
+        "image":"/images/gf.png",
+        "title":"GymFreak",
+        "description":"A full fledged exercise web app. It is one stop solution for all your exercises with animated gifs and youtube video recommendation.",
+        "site":"https://gymfreak07.netlify.app/",
+        "github":"https://github.com/Robo707/Gym-Freak"
+    },
+        {
+        "image":"/images/loginform.png",
+        "title":"Mern Template",
+        "description":"Its is mern tempalte with basic functionality like login, register, logout, forget password, change password",
+        "site":"https://github.com/ravoluzen/header-dhillon",
+        "github":"https://github.com/ravoluzen/header-dhillon"
+    },
+    {
+        "image":"/images/cc.png",
+        "title":"CodeCrew",
+        "description":"A platofrm using react.js to track Crypto currency prices in real time.",
+        "site":"https://crypto-crew.netlify.app/",
+        "github":"https://github.com/Robo707/Crypto-Crew"
+    },
+    {
+        "image":"/images/movierata.png",
+        "title":"Movierata",
+        "description":"Web app that uses OMDB API to display movies and shows along with a lot of info like plot, ratings, awards, etc. Also lets the user search movies and shows and view anyone of them in detail.",
+        "site":"https://movieapp2er3.netlify.app/",
+        "github":"https://github.com/Robo707/movieapp"
+    },
+    {
+        "image":"/images/ll.png",
+        "title":"LinkedIn Clone",
+        "description":"Clone of LinkedIn social media using react and firebase",
+        "site": "https://linkedin-clone23.netlify.app/",
+        "github":"https://github.com/Robo707/linkedin-clone"
+    },
+    {
+        "image":"/images/tt.png",
+        "title":"TextUtils",
+        "description":"React js based web app where we can do some manipulations on the text.",
+        "site":"https://github.com/Robo707/textutils",
+        "github":"https://github.com/Robo707/textutils"
+    },
+   {
+        "image":"/images/pc.png",
+        "title":"Patna Cafe",
+        "description":"ReactJs based single website to for cafes to showcase its proudct with prices and also newsletter subscribe option.",
+        "site":"https://robo707.github.io/patnacafe/",
+        "github":"https://github.com/Robo707/patnacafe/"
+    }
+ 
+]
