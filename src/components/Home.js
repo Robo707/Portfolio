@@ -24,7 +24,7 @@ const Home = () => {
                     </h3>
                     <p className='pt-3'>Currently looking for new roles.</p>
                     <p>(Ex: LoanWallah)</p>
-                    <p className='underline text-gray-400 pt-[2px]'> <a href="https://drive.google.com/file/d/1x2cvzlELKz68cITEil8L02wVVQHNa7RA/view?usp=sharing" target='_blank.'>Resume*</a></p>
+                    <p className='underline text-gray-400 pt-[2px]'> <a href="https://drive.google.com/file/d/15nO5Yk8Ug070smEQnpne0fg7TIXZ0wUL/view?usp=sharing" target='_blank.'>Resume*</a></p>
                     <br></br>
 
                     <p className='text-sm md:text-base'>
