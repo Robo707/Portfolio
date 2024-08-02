@@ -20,21 +20,21 @@ const Home = () => {
 
                     <h1 className='mb-2 text-xl font-bold font-sans md:text-4xl'>Himanshu Kumar</h1>
                     <h3 className='font-normal  md:text-xl'>
-                        Full Stack Developer               
+                        Full Stack Developer & Open Source               
                     </h3>
                     <p className='pt-3'>Currently looking for new roles.</p>
-                    <p>(Ex: LoanWallah)</p>
+                    <p>(Google Summer Of Code' 24)</p>
                     <p className='underline text-gray-400 pt-[2px]'> <a href="https://drive.google.com/file/d/1DhPDKUmHp8b2gYQ48IAGJdo1NVL4k3pX/view?usp=sharing" target='_blank.'>Resume*</a></p>
                     <br></br>
 
                     <p className='text-sm md:text-base'>
-                        Building with MERN Stack, Javascript, Tailwind css⚡️
+                        Building with NodeJs, Postgres, Docker, Aws, etc.⚡️
                     </p>
 
                 </article>
             </section>
             <section className='w-fit md:w-2/5 flex md:gap-0 gap-5 flex-row md:items-start md:mx-0 mx-auto  justify-between md:justify-evenly mt-12 md:mt-24'>
-                <a href='https://github.com/cybrog-x' target='_blank.' className='text-center text-3xl md:text-4xl transition-colors ease-in hover:bg-purple-600 rounded'>
+                <a href='https://github.com/HeeManSu' target='_blank.' className='text-center text-3xl md:text-4xl transition-colors ease-in hover:bg-purple-600 rounded'>
                     <Github />
                 </a>
                 <a href='https://leetcode.com/Himanshu7_07/' target='_blank.' className='text-center text-3xl md:text-4xl transition-colors ease-in hover:bg-purple-600 rounded'>
