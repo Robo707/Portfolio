@@ -24,7 +24,7 @@ const Home = () => {
                     </h3>
                     <p className='pt-3'>Currently looking for new roles.</p>
                     <p>(Google Summer Of Code' 24)</p>
-                    <p className='underline text-gray-400 pt-[2px]'> <a href="https://drive.google.com/file/d/1DhPDKUmHp8b2gYQ48IAGJdo1NVL4k3pX/view?usp=sharing" target='_blank.'>Resume*</a></p>
+                    <p className='underline text-gray-400 pt-[2px]'> <a href="https://drive.google.com/file/d/17mESA-AbDFDT7_QnHMapsaV5Ft7cfn-l/view?usp=sharing" target='_blank.'>Resume*</a></p>
                     <br></br>
 
                     <p className='text-sm md:text-base'>
